@@ -19,3 +19,25 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+付属ライブラリのライセンス表記
+本ソフトウェアは以下のサードパーティ製ライブラリを使用しており、それぞれのライセンスに基づき配布されています。
+
+pyinstaller
+License: GNU GPL v2.0 (with a special exception)
+
+生成された実行ファイル自体には、このライセンスによる制限は適用されません。 
+
+deep-translator
+
+License: MIT License 
+
+Pillow (PIL Fork)
+License: HPND License (Historical Permission Notice and Disclaimer)
+
+MIT Licenseに似た非常に寛容なライセンスです。 
+
+ollama
+
+License: MIT License
