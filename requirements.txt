@@ -1,0 +1,4 @@
+pyinstaller
+deep-translator
+Pillow
+ollama>=0.6.0
